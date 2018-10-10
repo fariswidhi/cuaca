@@ -1,2 +1,3 @@
-# timer
-Aplikasi Timer Sederhana dengan Nodejs dan socket.io
+
+# cuaca
+Aplikasi Cuaca Sederhana Realtime dengan nodejs dan socket io
